@@ -1,3 +1,3 @@
 # Maven Console Application
 
-Allowed console menu from choice execute Maven operation `clean test install package assembly  eclipse_clean, eclipse_eclipse` from folder with projects. 
+Provides console menu to select Maven operation to be executed from the development folder.
